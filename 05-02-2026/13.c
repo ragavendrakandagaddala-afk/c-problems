@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+    int count=5;
+    printf(" count :%d",count);
+    
+    return 0;
+}
